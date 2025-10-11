@@ -15,9 +15,9 @@ const lora = Lora({
 })
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "Thinkraft Labs",
+  description: "Coming Soon",
+  generator: "thinkraft.studio",
 }
 
 export default function RootLayout({
